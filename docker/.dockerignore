@@ -1,0 +1,16 @@
+# GitやIDEのファイルを無視
+.git
+.gitignore
+.idea
+.vscode
+.dockerignore
+.gcloudignore
+
+# Node.jsやPHPの依存ファイル
+node_modules/
+vendor/
+
+# キャッシュやログ
+*.log
+logs/
+tmp/
